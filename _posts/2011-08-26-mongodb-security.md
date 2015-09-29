@@ -1,12 +1,12 @@
 ---
 ID: 605
-post_title: MongoDB-安全性
+post_title: MongoDB-Security
 author: riv
 post_date: 2011-08-26 01:33:02
 post_excerpt: ""
 layout: post
 permalink: >
-  http://snowriver.org/blog/2011/08/26/mongodb-security/
+  http://snowriver.org/blog/en/2011/08/26/mongodb-security/
 published: true
 ---
 <img alt="security" src="http://images.mylot.com/userImages/images/postphotos/1127556.jpg" title="security" class="alignright" width="150" height="210" />在企业环境下开发应用，安全性往往是非常看重的。MongoDB的安全性设计理念就是依赖操作系统。这种设计理念可以使系统非常简单。而这种设计理念客户是否赞同就不得而知了。如果客户对此有所担心，如何给客户解释？如何提供更高一个层次的安全性？
